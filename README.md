@@ -8,3 +8,8 @@ A simple shell I created using C and foundational Linux utilities, modeled after
 
 ## How to run
 You can compile the suber.c source file using gcc or whatever your favorite C compiler is, and it should be able to start running the shell with the executable.
+
+## Updates
+
+### 1.0
+I am not sure if I will be making updates to this shell in the future, but here is the first iteration.
