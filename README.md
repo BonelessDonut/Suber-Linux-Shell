@@ -7,4 +7,4 @@ A simple shell I created using C and foundational Linux utilities, modeled after
 - Pipes to connect multiple programs together
 
 ## How to run
-You can compile the suber.c source file using gcc or whatever your favorite C compiler is, and it should be able to start running with the executable.
+You can compile the suber.c source file using gcc or whatever your favorite C compiler is, and it should be able to start running the shell with the executable.
